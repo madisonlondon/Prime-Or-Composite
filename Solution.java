@@ -3,7 +3,6 @@ import java.util.*;
 
 public class Solution {
     public static void main(String args[]) {
-        System.out.println("hi");
         Scanner s = new Scanner(System.in); 
         ArrayList<Integer> foo = new ArrayList<>(); 
         int N = Integer.parseInt(s.next()); 
